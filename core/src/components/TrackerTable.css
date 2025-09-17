@@ -1,6 +1,6 @@
 .tracker-table {
   width: 100%;
-  max-width: 900px;
+  max-width: 750px;
   margin: 20px auto;
   border-collapse: collapse;
   background-color: #fff;
@@ -22,8 +22,8 @@
   background-color: #f4f4f4;
   font-weight: bold;
   color: #333;
-  text-transform: uppercase;
   font-size: 0.8rem;
+  text-transform: uppercase;
 }
 
 .tracker-table tbody tr {
@@ -49,7 +49,16 @@
 }
 
 .tracker-table-image {
-  width: 100px;
-  height: 100px;
+  width: 70px;
+  height: 70px;
   object-fit: contain;
+}
+
+.tracker-table td:last-child {
+  width: 1%;
+  text-align: center;
+}
+
+.tracker-table .completed-row input {
+  text-decoration: none;
 }

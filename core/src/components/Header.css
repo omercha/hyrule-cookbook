@@ -16,9 +16,10 @@
 
 .header-content {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   width: 100%;
+  margin: 0 auto;
   padding: 15px 30px;
   max-width: 1400px;
 }
@@ -30,16 +31,15 @@
 }
 
 .nav-buttons a {
-  color: #f0f0f0;
+  color: #b8b8b8;
   text-decoration: none;
   font-size: 1.1rem;
   font-weight: 400;
   transition: color 0.3s ease;
-  position: relative;
-  padding-bottom: 5px;
 }
 
 .nav-buttons a:hover,
 .nav-buttons a.active {
-  color: #b8b8b8;
+  color: #f0f0f0;
+  font-weight: 400; /* Keep font weight consistent */
 }

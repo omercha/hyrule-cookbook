@@ -2,13 +2,14 @@ import React, { useState, useEffect } from 'react';
 import { getAllRecipes } from '../services/RecipeService';
 import { useCompletion } from '../hooks/useCompletion';
 import TrackerTable from '../components/TrackerTable';
+import Footer from '../components/Footer';
 import ProgressBar from '../components/ProgressBar';
 import './Tracker.css';
 
 function Tracker() {
   const [recipes, setRecipes] = useState([]);
   const [loading, setLoading] = useState(true);
-  const {completedIds, toggleCompletion} = useCompletion();
+  const { completedIds, toggleCompletion } = useCompletion();
 
   useEffect(() => {
     async function fetchRecipes() {
@@ -19,19 +20,21 @@ function Tracker() {
     fetchRecipes();
   }, []);
 
-  if (loading) return <div className="status-message">Loading recipes...</div>;
-
   return (
     <div className="tracker-page">
-      <ProgressBar
-        completed={completedIds.size}
-        total={228}
-      />
-      <TrackerTable
-        recipes={recipes}
-        completedIds={completedIds}
-        toggleCompletion={toggleCompletion}
-      />
+      {loading ? (
+        <div className="status-message">Loading tracker...</div>
+      ) : (
+        <div className="tracker-content">
+          <ProgressBar completed={completedIds.size} total={recipes.length} />
+          <TrackerTable
+            recipes={recipes}
+            completedIds={completedIds}
+            toggleCompletion={toggleCompletion}
+          />
+        </div>
+      )}
+      <Footer />
     </div>
   );
 }

@@ -25,20 +25,22 @@ function Home() {
   const navigate = useNavigate();
 
   return (
-    <div className="home-container">
-      <section className="hero-section">
-        <h1 className="home-title animated-title">Hyrule Cookbook</h1>
-        <p className="home-subtitle animated-subtitle">
-          A minimalist web app that compiles all recipe information for Tears of the Kingdom and helps you keep track of your cooking progress. No registration/installation required!
-        </p>
-        <section className="intro-section">
-          <div className="feature-cards">
-            <FeatureCard navigateTo={() => navigate('/recipes')} title="View Recipes" iconSrc={viewRecipesIcon} iconAlt="view recipes icon" />
-            <FeatureCard navigateTo={() => navigate('/tracker')} title="Track Completion" iconSrc={trackCompletionIcon} iconAlt="track completion icon" />
-          </div>
+    <>
+      <div className="home-container">
+        <section className="hero-section">
+          <h1 className="home-title animated-title">Hyrule Cookbook</h1>
+          <p className="home-subtitle animated-subtitle">
+            View all recipe information for Tears of the Kingdom and keep track of your cooking progress. No registration/installation required!
+          </p>
+          <section className="intro-section">
+            <div className="feature-cards">
+              <FeatureCard navigateTo={() => navigate('/recipes')} title="View Recipes" iconSrc={viewRecipesIcon} iconAlt="view recipes icon" />
+              <FeatureCard navigateTo={() => navigate('/tracker')} title="Track Completion" iconSrc={trackCompletionIcon} iconAlt="track completion icon" />
+            </div>
+          </section>
         </section>
-      </section>
-    </div>
+      </div>
+    </>
   );
 }
 

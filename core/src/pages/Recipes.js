@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import RecipeList from '../components/RecipeList';
 import SearchBar from '../components/SearchBar';
 import { getAllRecipes } from '../services/RecipeService';
+import Footer from '../components/Footer';
 import './Recipes.css';
 
 function Recipes() {
@@ -31,14 +32,15 @@ function Recipes() {
       {loading ? (
         <div className="status-message">Loading recipes...</div>
       ) : (
-        <>
+        <div className="recipes-content">
           <SearchBar
             searchTerm={searchTerm}
             onSearchChange={setSearchTerm}
           />
           <RecipeList recipes={filteredRecipes} />
-        </>
+        </div>
       )}
+      <Footer />
     </div>
   );
 }

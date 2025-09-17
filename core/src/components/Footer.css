@@ -1,0 +1,35 @@
+.site-footer {
+  padding: 15px;
+  text-align: center;
+  font-size: 14px;
+  color: #858585;
+  background-color: transparent;
+  
+  width: 100%;
+  margin-top: auto;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0 10px;
+}
+
+.footer-link {
+  color: #b6b6b6;
+  text-decoration: none;
+  transition: color 0.3s ease;
+  text-decoration: underline;
+}
+
+.footer-link:hover {
+  color: #ffffff;
+}
+
+@media (max-width: 480px) {
+  .footer-separator {
+    display: none;
+  }
+}

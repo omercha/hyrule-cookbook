@@ -1,11 +1,12 @@
 .tracker-summary {
-  max-width: 900px;
+  max-width: 710px;
   margin: 0 auto 20px auto;
   padding: 20px;
   background-color: rgba(255, 255, 255, 0.9);
   border-radius: 8px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
   color: #333;
+  animation: fadeInFromLeft 0.5s ease-out forwards;
 }
 
 .summary-stats {

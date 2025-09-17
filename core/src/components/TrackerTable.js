@@ -5,10 +5,10 @@ const TrackerTable = ({ recipes, completedIds, toggleCompletion }) => {
     <table className="tracker-table">
       <thead>
         <tr>
-          <th>#</th>
-          <th>Recipe Image</th>
-          <th>Recipe Name</th>
-          <th>Cooked?</th>
+          <th>ID</th>
+          <th>Image</th>
+          <th>Name</th>
+          <th>Checklist</th>
         </tr>
       </thead>
       <tbody>
@@ -25,6 +25,7 @@ const TrackerTable = ({ recipes, completedIds, toggleCompletion }) => {
               <td>{recipe.name}</td>
               <td>
                 <input type="checkbox" checked={isCompleted} readOnly />
+
               </td>
             </tr>
           );

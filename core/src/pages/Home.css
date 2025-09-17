@@ -52,7 +52,7 @@
 }
 
 .home-subtitle {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 1.5rem;
   color: #d0d7e0;
   line-height: 1.6;
@@ -103,7 +103,7 @@
   align-items: center;
   backdrop-filter: blur(10px);
   color: #f0f0f0;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 0.9rem;
   opacity: 0;
   cursor: pointer;
