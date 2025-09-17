@@ -1,0 +1,14 @@
+.recipe-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  justify-content: center;
+}
+
+@font-face {
+  font-family: 'HyliaSerif';
+  src: url('./fonts/HyliaSerifBeta-Regular.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}

@@ -1,0 +1,201 @@
+[
+    {
+        "id": 1,
+        "name": "Mushroom Skewer",
+        "ingredients": [
+            "Any Mushroom"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/1/1d/Mushroom_Skewer_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 2,
+        "name": "Meat and Mushroom Skewer",
+        "ingredients": [
+            "Any Mushroom",
+            "Any Meat"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/e/ed/Meat_and_Mushroom_Skewer_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 3,
+        "name": "Fish and Mushroom Skewer",
+        "ingredients": [
+            "Any Fish",
+            "Any Mushroom"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/3/33/Fish_and_Mushroom_Skewer_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 4,
+        "name": "Meat Skewer",
+        "ingredients": [
+            "Any Meat"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/7/78/Meat_Skewer_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 5,
+        "name": "Fish Skewer",
+        "ingredients": [
+            "Any Fish"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/7/7d/Fish_Skewer_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 6,
+        "name": "Seafood Skewer",
+        "ingredients": [
+            "Any Snail or Crab"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/b/b8/Seafood_Skewer_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 7,
+        "name": "Copious Meat Skewers",
+        "ingredients": [
+            "Any four different Meat"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/6/65/Copious_Meat_Skewers_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 8,
+        "name": "Copious Fish Skewers",
+        "ingredients": [
+            "Any four different Fish"
+        ],
+        "effect": null,
+        "image": "https://www.zeldadungeon.net/wiki/images/0/03/Copious_Seafood_Skewers_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 9,
+        "name": "Steamed Fruit",
+        "ingredients": [
+            "Any Fruit (excluding Hylian Tomato)",
+            "Any Vegetable, Flower, or Herb"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/9/93/Steamed_Fruit_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 10,
+        "name": "Steamed Tomatoes",
+        "ingredients": [
+            "Hylian Tomato",
+            "Any Vegetable, Flower, or Herb"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/0/0f/Steamed_Tomatoes_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 11,
+        "name": "Steamed Mushrooms",
+        "ingredients": [
+            "Any Mushroom",
+            "Any Vegetable, Flower, or Herb"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/1/17/Steamed_Mushrooms_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 12,
+        "name": "Steamed Meat",
+        "ingredients": [
+            "Any Meat",
+            "Any Vegetable, Flower, or Herb"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/f/f1/Steamed_Meat_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 13,
+        "name": "Steamed Fish",
+        "ingredients": [
+            "Any Fish",
+            "Any Vegetable, Flower, or Herb"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/4/48/Steamed_Fish_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 14,
+        "name": "Sautéed Peppers",
+        "ingredients": [
+            "Spicy Pepper"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/c/c6/Saut%C3%A9ed_Peppers_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 15,
+        "name": "Sautéed Nuts",
+        "ingredients": [
+            "Any Nut"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/2/21/Saut%C3%A9ed_Nuts_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 16,
+        "name": "Fried Wild Greens",
+        "ingredients": [
+            "Any Vegetable, Flower, or Herb"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/5/5a/Fried_Wild_Greens_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 17,
+        "name": "Copious Fried Wild Greens",
+        "ingredients": [
+            "Any four different Vegetables, Flowers, or Herbs"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/0/03/Copious_Fried_Wild_Greens_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 18,
+        "name": "Cooked Stambulb",
+        "ingredients": [
+            "Stambulb"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/a/a9/Cooked_Stambulb_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 19,
+        "name": "Buttered Stambulb",
+        "ingredients": [
+            "Stambulb",
+            "Goat Butter"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/8/82/Buttered_Stambulb_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 20,
+        "name": "Copious Mushroom Skewers",
+        "ingredients": [
+            "Any four different Mushrooms"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/d/da/Copious_Mushroom_Skewers_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 21,
+        "name": "Spiced Meat Skewer",
+        "ingredients": [
+            "Raw Meat",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/f/f9/Spiced_Meat_Skewer_-_TotK_icon.png",
+        "method": "pot"
+    }
+]
