@@ -10,6 +10,7 @@
 
 .recipe-card:hover {
   transform: translateY(-5px);
+  cursor: pointer;
 }
 
 .recipe-card-image-container {
