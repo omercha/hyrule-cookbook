@@ -1,0 +1,55 @@
+.tracker-table {
+  width: 100%;
+  max-width: 900px;
+  margin: 20px auto;
+  border-collapse: collapse;
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  font-size: 0.9rem;
+}
+
+.tracker-table th,
+.tracker-table td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+  vertical-align: middle;
+}
+
+.tracker-table th {
+  background-color: #f4f4f4;
+  font-weight: bold;
+  color: #333;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.tracker-table tbody tr {
+  cursor: pointer;
+  transition: background-color 0.2s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.tracker-table tbody tr:hover {
+  background-color: #f9f9f9;
+}
+
+.tracker-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.tracker-table .completed-row {
+  opacity: 0.5;
+  background-color: #e9e9e9;
+}
+
+.tracker-table .completed-row:hover {
+  background-color: #e0e0e0;
+}
+
+.tracker-table-image {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
