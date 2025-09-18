@@ -21,8 +21,9 @@ Find recipe information quickly and track your cooking progress.
 ## Tech Stack & Data Source
 - **Frontend:** React and Vanilla CSS
 - **Deployment:** Vercel
-- The recipe data used in this project is maintained in a separate repository as a public JSON file. You can find it [here](https://github.com/omercha/zelda-recipes-json).
+- The recipe data is maintained in a separate repository and can be found [here](https://github.com/omercha/zelda-recipes-json).
 
 ## License
 This project is made available under the MIT License. See the `LICENSE` file for more details.
+
 
