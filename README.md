@@ -24,4 +24,5 @@ Find recipe information quickly and track your cooking progress.
 - The recipe data used in this project is maintained in a separate repository as a public JSON file. You can find it [here](https://github.com/omercha/zelda-recipes-json).
 
 ## License
-This dataset is made available under the MIT License. See the `LICENSE` file for more details.
+This project is made available under the MIT License. See the `LICENSE` file for more details.
+
