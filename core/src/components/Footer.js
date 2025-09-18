@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer className="site-footer">
       <div className="footer-content">
-        <span>Made by Omer Chaudhry</span>
+        <span>Made by Omer</span>
         <span className="footer-separator">|</span>
         <a
           href="https://github.com/omercha/hyrule-cookbook" 

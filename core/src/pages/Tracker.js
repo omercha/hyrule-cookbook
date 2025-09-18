@@ -23,7 +23,7 @@ function Tracker() {
   return (
     <div className="tracker-page">
       {loading ? (
-        <div className="status-message">Loading tracker...</div>
+        <div className="status-message">Loading...</div>
       ) : (
         <div className="tracker-content">
           <ProgressBar completed={completedIds.size} total={recipes.length} />

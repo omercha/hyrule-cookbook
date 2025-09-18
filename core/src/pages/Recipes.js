@@ -30,7 +30,7 @@ function Recipes() {
   return (
     <div className="recipes-page">
       {loading ? (
-        <div className="status-message">Loading recipes...</div>
+        <div className="status-message">Loading...</div>
       ) : (
         <div className="recipes-content">
           <SearchBar
