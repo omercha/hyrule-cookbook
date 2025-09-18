@@ -10,6 +10,7 @@ function Header({ isVisible }) {
           <NavLink to="/recipes">Recipes</NavLink>
           <NavLink to="/tracker">Tracker</NavLink>
         </nav>
+        
       </div>
     </header>
   );

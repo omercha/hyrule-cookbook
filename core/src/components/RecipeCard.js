@@ -3,7 +3,7 @@ import './RecipeCard.css';
 const methodColours = {
   extreme_heat: '#fce5cd',
   extreme_cold: '#d6f8fb',
-  hot_spring: '#d9d9d9',
+  hot_spring: '#b3b3b3ff',
 };
 
 const RecipeCard = ({ recipe }) => {

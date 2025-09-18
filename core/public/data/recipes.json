@@ -1573,8 +1573,8 @@
         "ingredients": [
             "Apple"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/4/4d/Baked_Apple_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 148,
@@ -1582,8 +1582,8 @@
         "ingredients": [
             "Golden Apple"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/8/84/Baked_Golden_Apple_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 149,
@@ -1591,8 +1591,8 @@
         "ingredients": [
             "Spicy Pepper"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/f/f3/Charred_Pepper_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 150,
@@ -1600,8 +1600,8 @@
         "ingredients": [
             "Hylian Tomato"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/3/30/Roasted_Hylian_Tomato_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 151,
@@ -1609,8 +1609,8 @@
         "ingredients": [
             "Wildberry"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/b/b0/Roasted_Wildberry_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 152,
@@ -1618,8 +1618,8 @@
         "ingredients": [
             "Voltfruit"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/b/bf/Roasted_Voltfruit_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 153,
@@ -1627,8 +1627,8 @@
         "ingredients": [
             "Hydromelon"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/1/16/Roasted_Hydromelon_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 154,
@@ -1636,8 +1636,8 @@
         "ingredients": [
             "Palm Fruit"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/8/88/Baked_Palm_Fruit_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 155,
@@ -1645,8 +1645,8 @@
         "ingredients": [
             "Mighty Bananas"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/1/18/Roasted_Mighty_Bananas_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 156,
@@ -1654,8 +1654,8 @@
         "ingredients": [
             "Lotus Seeds"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/d/de/Roasted_Lotus_Seeds_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 157,
@@ -1663,8 +1663,8 @@
         "ingredients": [
             "Mighty Thistle"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/5/5b/Roasted_Mighty_Thistle_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 158,
@@ -1672,8 +1672,8 @@
         "ingredients": [
             "Armoranth"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/a/ae/Roasted_Armoranth_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 159,
@@ -1681,8 +1681,8 @@
         "ingredients": [
             "Swift Carrot"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/3/34/Roasted_Swift_Carrot_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 160,
@@ -1690,8 +1690,8 @@
         "ingredients": [
             "Endura Carrot"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/a/a3/Roasted_Endura_Carrot_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 161,
@@ -1699,8 +1699,8 @@
         "ingredients": [
             "Fortified Pumpkin"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/6/61/Baked_Fortified_Pumpkin_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 162,
@@ -1708,8 +1708,8 @@
         "ingredients": [
             "Sun Pumpkin"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/6/60/Baked_Sun_Pumpkin_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 163,
@@ -1717,8 +1717,8 @@
         "ingredients": [
             "Hearty Radish"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/7/73/Roasted_Radish_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 164,
@@ -1726,8 +1726,8 @@
         "ingredients": [
             "Big Hearty Radish"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/e/e8/Roasted_Big_Radish_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 165,
@@ -1735,8 +1735,8 @@
         "ingredients": [
             "Skyshroom"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/b/bc/Toasty_Skyshroom_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 166,
@@ -1744,8 +1744,8 @@
         "ingredients": [
             "Hylian Shroom"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/7/76/Toasty_Hylian_Shroom_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 167,
@@ -1753,8 +1753,8 @@
         "ingredients": [
             "Stamella Shroom"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/0/00/Toasty_Stamella_Shroom_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 168,
@@ -1762,8 +1762,8 @@
         "ingredients": [
             "Rushroom"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/6/68/Toasty_Rushroom_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 169,
@@ -1771,8 +1771,8 @@
         "ingredients": [
             "Sunshroom"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/2/29/Toasty_Sunshroom_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 170,
@@ -1780,8 +1780,8 @@
         "ingredients": [
             "Chillshroom"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/4/48/Toasty_Chillshroom_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 171,
@@ -1789,8 +1789,8 @@
         "ingredients": [
             "Zapshroom"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/c/c8/Toasty_Zapshroom_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 172,
@@ -1798,8 +1798,8 @@
         "ingredients": [
             "Razorshroom"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/5/57/Toasty_Razorshroom_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 173,
@@ -1807,8 +1807,8 @@
         "ingredients": [
             "Ironshroom"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/5/55/Toasty_Ironshroom_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 174,
@@ -1816,8 +1816,8 @@
         "ingredients": [
             "Silent Shroom"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/e/ea/Toasty_Silent_Shroom_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 175,
@@ -1825,8 +1825,8 @@
         "ingredients": [
             "Brightcap"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/3/38/Toasty_Brightcap_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 176,
@@ -1834,8 +1834,8 @@
         "ingredients": [
             "Endura Shroom"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/a/ac/Toasty_Endura_Shroom_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 177,
@@ -1843,8 +1843,8 @@
         "ingredients": [
             "Hearty Truffle"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/2/29/Toasted_Hearty_Truffle_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 178,
@@ -1852,8 +1852,8 @@
         "ingredients": [
             "Big Hearty Truffle"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/f/fd/Toasted_Big_Hearty_Truffle_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 179,
@@ -1861,8 +1861,8 @@
         "ingredients": [
             "Raw Meat"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/0/0f/Seared_Steak_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 180,
@@ -1870,8 +1870,8 @@
         "ingredients": [
             "Raw Prime Meat"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/6/60/Seared_Prime_Steak_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 181,
@@ -1879,8 +1879,8 @@
         "ingredients": [
             "Raw Gourmet Meat"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/3/3e/Seared_Gourmet_Steak_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 182,
@@ -1888,8 +1888,8 @@
         "ingredients": [
             "Raw Bird Drumstick"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/e/e9/Roasted_Bird_Drumstick_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 183,
@@ -1897,8 +1897,8 @@
         "ingredients": [
             "Raw Bird Thigh"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/3/38/Roasted_Bird_Thigh_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 184,
@@ -1906,8 +1906,8 @@
         "ingredients": [
             "Raw Whole Bird"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/f/f6/Roasted_Whole_Bird_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 185,
@@ -1915,8 +1915,8 @@
         "ingredients": [
             "Ancient Arowana"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/c/ce/Roasted_Arowana_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 186,
@@ -1924,8 +1924,8 @@
         "ingredients": [
             "Hyrule Bass"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/7/75/Roasted_Bass_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 187,
@@ -1933,8 +1933,8 @@
         "ingredients": [
             "Any Trout"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/9/9d/Roasted_Trout_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 188,
@@ -1942,8 +1942,8 @@
         "ingredients": [
             "Any Carp"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/0/01/Roasted_Carp_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 189,
@@ -1951,8 +1951,8 @@
         "ingredients": [
             "Any Porgy"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/7/78/Roasted_Porgy_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 190,
@@ -1960,8 +1960,8 @@
         "ingredients": [
             "Glowing Cave Fish"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/4/49/Roasted_Cave_Fish_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 191,
@@ -1969,8 +1969,8 @@
         "ingredients": [
             "Hearty Bass"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/0/05/Roasted_Hearty_Bass_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 192,
@@ -1978,8 +1978,8 @@
         "ingredients": [
             "Hearty Salmon"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/6/6a/Roasted_Hearty_Salmon_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 193,
@@ -1987,8 +1987,8 @@
         "ingredients": [
             "Any Crab"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/a/a1/Blackened_Crab_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 194,
@@ -1996,8 +1996,8 @@
         "ingredients": [
             "Sneaky River Snail"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/3/3d/Sneaky_River_Escargot_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 195,
@@ -2005,8 +2005,8 @@
         "ingredients": [
             "Chickaloo Tree Nut"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/2/22/Roasted_Tree_Nut_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 196,
@@ -2014,8 +2014,8 @@
         "ingredients": [
             "Acorn"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/3/3e/Roasted_Acorn_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 197,
@@ -2023,8 +2023,8 @@
         "ingredients": [
             "Bird Egg"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/9/90/Campfire_Egg_-_TotK_icon.png",
+        "method": "extreme_heat"
     },
     {
         "id": 198,
@@ -2032,8 +2032,8 @@
         "ingredients": [
             "Bird Egg"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/9/97/Hard-Boiled_Egg_-_TotK_icon.png",
+        "method": "hot_spring"
     },
     {
         "id": 199,
@@ -2041,8 +2041,8 @@
         "ingredients": [
             "Raw Meat"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/8/8a/Icy_Meat_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 200,
@@ -2050,8 +2050,8 @@
         "ingredients": [
             "Raw Prime Meat"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/5/55/Icy_Prime_Meat_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 201,
@@ -2059,8 +2059,8 @@
         "ingredients": [
             "Raw Gourtmet Meat"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/c/c5/Icy_Gourmet_Meat_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 202,
@@ -2068,8 +2068,8 @@
         "ingredients": [
             "Raw Bird Drumstick"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/6/60/Frozen_Bird_Drumstick_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 203,
@@ -2077,8 +2077,8 @@
         "ingredients": [
             "Raw Bird Thigh"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/d/dc/Frozen_Bird_Thigh_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 204,
@@ -2086,8 +2086,8 @@
         "ingredients": [
             "Raw Whole Bird"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/4/47/Frozen_Whole_Bird_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 205,
@@ -2095,8 +2095,8 @@
         "ingredients": [
             "Ancient Arowana"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/b/b8/Frozen_Arowana_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 206,
@@ -2104,8 +2104,8 @@
         "ingredients": [
             "Hyrule Bass"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/8/87/Frozen_Bass_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 207,
@@ -2113,8 +2113,8 @@
         "ingredients": [
             "Any Trout"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/7/74/Frozen_Trout_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 208,
@@ -2122,8 +2122,8 @@
         "ingredients": [
             "Any Carp"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/e/e5/Frozen_Carp_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 209,
@@ -2131,8 +2131,8 @@
         "ingredients": [
             "Any Porgy"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/6/6b/Frozen_Porgy_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 210,
@@ -2140,8 +2140,8 @@
         "ingredients": [
             "Glowing Cave Fish"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/e/e0/Frozen_Cave_Fish_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 211,
@@ -2149,8 +2149,8 @@
         "ingredients": [
             "Hearty Bass"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/8/80/Frozen_Hearty_Bass_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 212,
@@ -2158,8 +2158,8 @@
         "ingredients": [
             "Hearty Salmon"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/5/53/Frozen_Hearty_Salmon_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 213,
@@ -2167,8 +2167,8 @@
         "ingredients": [
             "Any Crab"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/7/76/Frozen_Crab_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 214,
@@ -2176,8 +2176,8 @@
         "ingredients": [
             "Sneaky River Snail"
         ],
-        "image": "",
-        "method": "pot"
+        "image": "https://www.zeldadungeon.net/wiki/images/7/71/Frozen_River_Snail_-_TotK_icon.png",
+        "method": "extreme_cold"
     },
     {
         "id": 215,
@@ -2186,7 +2186,7 @@
             "Restless Cricket or Energetic Rhino Beetle",
             "Any Monster Part"
         ],
-        "image": "",
+        "image": "https://www.zeldadungeon.net/wiki/images/2/2b/Energizing_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2196,7 +2196,7 @@
             "Hot-Footed Frog or Hightail Lizard",
             "Any Monster Part"
         ],
-        "image": "",
+        "image": "https://www.zeldadungeon.net/wiki/images/4/42/Hasty_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2206,7 +2206,7 @@
             "Summerwing Butterfly or Warm Darner",
             "Any Monster Part"
         ],
-        "image": "",
+        "image": "https://www.zeldadungeon.net/wiki/images/3/3b/Spicy_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2216,7 +2216,7 @@
             "Winterwing Butterfly or Cold Darner",
             "Any Monster Part"
         ],
-        "image": "",
+        "image": "https://www.zeldadungeon.net/wiki/images/1/1f/Chilly_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2226,7 +2226,7 @@
             "Thunderwing Butterfly or Electric Darner",
             "Any Monster Part"
         ],
-        "image": "",
+        "image": "https://www.zeldadungeon.net/wiki/images/8/88/Electro_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2236,7 +2236,7 @@
             "Fireproof Lizard or Smotherwing Butterfly",
             "Any Monster Part"
         ],
-        "image": "",
+        "image": "https://www.zeldadungeon.net/wiki/images/3/3b/Fireproof_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2246,7 +2246,7 @@
             "Bladed Rhino Beetle",
             "Any Monster Part"
         ],
-        "image": "",
+        "image": "https://www.zeldadungeon.net/wiki/images/2/2c/Mighty_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2256,7 +2256,7 @@
             "Rugged Rhino Beetle",
             "Any Monster Part"
         ],
-        "image": "",
+        "image": "https://www.zeldadungeon.net/wiki/images/e/ec/Tough_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2266,7 +2266,7 @@
             "Sunset Firefly ",
             "Any Monster Part"
         ],
-        "image": "",
+        "image": "https://www.zeldadungeon.net/wiki/images/0/03/Sneaky_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2276,7 +2276,7 @@
             "Sticky Frog or Sticky Lizard",
             "Any Monster Part"
         ],
-        "image": "",
+        "image": "https://www.zeldadungeon.net/wiki/images/9/9f/Sticky_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2286,7 +2286,7 @@
             "Deep Firefly",
             "Any Monster Part"
         ],
-        "image": "",
+        "image": "https://www.zeldadungeon.net/wiki/images/3/34/Bright_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2296,7 +2296,7 @@
             "Tireless Frog",
             "Any Monster Part"
         ],
-        "image": "",
+        "image": "https://www.zeldadungeon.net/wiki/images/0/0e/Enduring_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
@@ -2306,17 +2306,16 @@
             "Hearty Lizard",
             "Any Monster Part"
         ],
-        "image": "",
+        "image": "https://www.zeldadungeon.net/wiki/images/9/9b/Hearty_Elixir_-_TotK_icon.png",
         "method": "pot"
     },
     {
         "id": 228,
         "name": "Fairy Tonic",
         "ingredients": [
-            "Fairy",
-            "Any Monster Part"
+            "Fairy"  
         ],
-        "image": "",
+        "image": "https://www.zeldadungeon.net/wiki/images/8/8b/Fairy_Tonic_-_TotK_icon.png",
         "method": "pot"
     }
 ]
