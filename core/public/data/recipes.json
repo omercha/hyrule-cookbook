@@ -197,5 +197,2126 @@
         ],
         "image": "https://www.zeldadungeon.net/wiki/images/f/f9/Spiced_Meat_Skewer_-_TotK_icon.png",
         "method": "pot"
+    },
+    {
+        "id": 22,
+        "name": "Prime Spiced Meat Skewer",
+        "ingredients": [
+            "Raw Prime Meat",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/d/d9/Prime_Spiced_Meat_Skewer_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 23,
+        "name": "Gourmet Spiced Meat Skewer",
+        "ingredients": [
+            "Raw Gourmet Meat",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/f/fc/Gourmet_Spiced_Meat_Skewer_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 24,
+        "name": "Crab Stir-Fry",
+        "ingredients": [
+            "Any Crab",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/6/6d/Crab_Stir-Fry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 25,
+        "name": "Meat and Seafood Fry",
+        "ingredients": [
+            "Raw Meat or Raw Bird Drumstick",
+            "Any Seafood"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/7/77/Meat_and_Seafood_Fry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 26,
+        "name": "Prime Meat and Seafood Fry",
+        "ingredients": [
+            "Raw Prime Meat or Raw Bird Thigh",
+            "Any Seafood"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/f/fe/Prime_Meat_and_Seafood_Fry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 27,
+        "name": "Gourmet Meat and Seafood Fry",
+        "ingredients": [
+            "Raw Gourmet Meat or Raw Whole Bird",
+            "Any Seafood"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/d/d8/Gourmet_Meat_and_Seafood_Fry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 28,
+        "name": "Salt-Grilled Greens",
+        "ingredients": [
+            "Any Herb or Flower",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/9/92/Salt-Grilled_Greens_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 29,
+        "name": "Salt-Grilled Mushrooms",
+        "ingredients": [
+            "Any Mushroom",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/3/35/Salt-Grilled_Mushrooms_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 30,
+        "name": "Salt-Grilled Meat",
+        "ingredients": [
+            "Raw Meat or Raw Bird Drumstick",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/2/2c/Salt-Grilled_Meat_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 31,
+        "name": "Salt-Grilled Prime Meat",
+        "ingredients": [
+            "Raw Prime Meat or Raw Bird Thigh",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/4/42/Salt-Grilled_Prime_Meat_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 32,
+        "name": "Salt-Grilled Gourmet Meat",
+        "ingredients": [
+            "Raw Gourmet Meat or Raw Whole Bird",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/e/e0/Salt-Grilled_Gourmet_Meat_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 33,
+        "name": "Salt-Grilled Fish",
+        "ingredients": [
+            "Any Fish",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/3/3a/Salt-Grilled_Fish_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 34,
+        "name": "Salt-Grilled Crab",
+        "ingredients": [
+            "Any Crab",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/1/19/Salt-Grilled_Crab_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 35,
+        "name": "Herb Sauté",
+        "ingredients": [
+            "Any Herb, Flower, or Vegetable",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/5/55/Herb_Saut%C3%A9_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 36,
+        "name": "Fragrant Mushroom Sauté",
+        "ingredients": [
+            "Any Mushroom",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/0/0f/Fragrant_Mushroom_Saut%C3%A9_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 37,
+        "name": "Pepper Steak",
+        "ingredients": [
+            "Any Meat",
+            "Spicy Pepper"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/e/e9/Pepper_Steak_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 38,
+        "name": "Pepper Seafood",
+        "ingredients": [
+            "Any Seafood or Fish",
+            "Spicy Pepper"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/a/ad/Pepper_Seafood_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 39,
+        "name": "Fragrant Seafood Stew",
+        "ingredients": [
+            "Any Seafood or Fish",
+            "Stambulb",
+            "Oil Jar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/2/22/Fragrant_Seafood_Stew_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 40,
+        "name": "Deep-Fried Drumstick",
+        "ingredients": [
+            "Raw Bird Drumstick",
+            "Oil Jar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/9/97/Deep-Fried_Drumstick_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 41,
+        "name": "Deep-Fried Thigh",
+        "ingredients": [
+            "Raw Bird Thigh",
+            "Oil Jar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/4/4e/Deep-Fried_Thigh_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 42,
+        "name": "Deep-Fried Bird Roast",
+        "ingredients": [
+            "Raw Whole Bird",
+            "Oil Jar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/5/57/Deep-Fried_Bird_Roast_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 43,
+        "name": "Seafood Meunière",
+        "ingredients": [
+            "Any Seafood (Excluding Hearty Salmon and Porgy)",
+            "Goat Butter",
+            "Tabantha Wheat"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/4/40/Seafood_Meuni%C3%A8re_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 44,
+        "name": "Porgy Meunière",
+        "ingredients": [
+            "Armored Porgy or Mighty Porgy",
+            "Goat Butter",
+            "Tabantha Wheat"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/b/be/Porgy_Meuni%C3%A8re_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 45,
+        "name": "Salmon Meunière",
+        "ingredients": [
+            "Hearty Salmon",
+            "Goat Butter",
+            "Tabantha Wheat"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/d/df/Salmon_Meuni%C3%A8re_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 46,
+        "name": "Fruit and Mushroom Mix",
+        "ingredients": [
+            "Any Fruit",
+            "Any Mushroom"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/e/ea/Fruit_and_Mushroom_Mix_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 47,
+        "name": "Simmered Fruit",
+        "ingredients": [
+            "Any Fruit"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/3/3c/Simmered_Fruit_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 48,
+        "name": "Copious Simmered Fruit",
+        "ingredients": [
+            "Any Four Different Fruit"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/5/59/Copious_Simmered_Fruit_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 49,
+        "name": "Simmered Tomato",
+        "ingredients": [
+            "Hylian Tomato"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/8/8c/Simmered_Tomato_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 50,
+        "name": "Fruity Tomato Stew",
+        "ingredients": [
+            "Hylian Tomato",
+            "Rock Salt",
+            "Fresh Milk"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/0/04/Fruity_Tomato_Stew_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 51,
+        "name": "Tomato Mushroom Stew",
+        "ingredients": [
+            "Hylian Tomato",
+            "Any Mushroom"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/8/86/Tomato_Mushroom_Stew_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 52,
+        "name": "Tomato Seafood Soup",
+        "ingredients": [
+            "Hylian Tomato",
+            "Any Seafood"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/9/9f/Tomato_Seafood_Soup_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 53,
+        "name": "Cream of Vegetable Soup",
+        "ingredients": [
+            "Any Herb, Flower, or Vegetable (Excluding Carrots or Pumpkins)",
+            "Rock Salt",
+            "Fresh Milk"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/b/bf/Cream_of_Vegetable_Soup_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 54,
+        "name": "Veggie Cream Soup",
+        "ingredients": [
+            "Any Carrot or Pumpkin",
+            "Rock Salt",
+            "Fresh Milk"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/7/73/Veggie_Cream_Soup_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 55,
+        "name": "Cream of Mushroom Soup",
+        "ingredients": [
+            "Any Mushroom",
+            "Any Herb, Flower, or Vegetable",
+            "Rock Salt",
+            "Fresh Milk"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/d/d0/Cream_of_Mushroom_Soup_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 56,
+        "name": "Creamy Meat Soup",
+        "ingredients": [
+            "Any Meat",
+            "Any Herb, Flower, or Vegetable",
+            "Rock Salt",
+            "Fresh Milk"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/3/37/Creamy_Meat_Soup_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 57,
+        "name": "Creamy Seafood Soup",
+        "ingredients": [
+            "Any Seafood",
+            "Any Herb, Flower, or Vegetable",
+            "Rock Salt",
+            "Fresh Milk"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/9/98/Creamy_Seafood_Soup_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 58,
+        "name": "Snail Chowder",
+        "ingredients": [
+            "Sneaky River Snail",
+            "Goat Butter",
+            "Fresh Milk",
+            "Tabantha Wheat"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/2/28/Snail_Chowder_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 59,
+        "name": "Creamy Heart Soup",
+        "ingredients": [
+            "Hearty Radish",
+            "Hydromelon",
+            "Voltfruit",
+            "Fresh Milk"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/c/cd/Creamy_Heart_Soup_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 60,
+        "name": "Glazed Veggies",
+        "ingredients": [
+            "Any Herb, Flower, or Vegetable",
+            "Courser Bee Honey"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/f/f0/Glazed_Veggies_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 61,
+        "name": "Glazed Mushrooms",
+        "ingredients": [
+            "Any Mushroom",
+            "Courser Bee Honey"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/3/32/Glazed_Mushrooms_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 62,
+        "name": "Glazed Meat",
+        "ingredients": [
+            "Any Meat",
+            "Courser Bee Honey"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/1/16/Glazed_Meat_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 63,
+        "name": "Glazed Seafood",
+        "ingredients": [
+            "Any Seafood",
+            "Courser Bee Honey"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/4/4a/Glazed_Seafood_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 64,
+        "name": "Curry Rice",
+        "ingredients": [
+            "Hylian Rice",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/3/33/Curry_Rice_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 65,
+        "name": "Vegetable Curry",
+        "ingredients": [
+            "Any Carrot or Pumpkin",
+            "Hylian Rice",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/9/9f/Vegetable_Curry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 66,
+        "name": "Meat Curry",
+        "ingredients": [
+            "Raw Meat",
+            "Hylian Rice",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/0/00/Meat_Curry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 67,
+        "name": "Prime Meat Curry",
+        "ingredients": [
+            "Raw Prime Meat",
+            "Hylian Rice",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/9/99/Prime_Meat_Curry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 68,
+        "name": "Gourmet Meat Curry",
+        "ingredients": [
+            "Raw Gourmet Meat",
+            "Hylian Rice",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/3/3d/Gourmet_Meat_Curry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 69,
+        "name": "Poultry Curry",
+        "ingredients": [
+            "Raw Bird Drumstick",
+            "Hylian Rice",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/c/c8/Poultry_Curry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 70,
+        "name": "Prime Poultry Curry",
+        "ingredients": [
+            "Raw Bird Thigh",
+            "Hylian Rice",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/d/d2/Prime_Poultry_Curry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 71,
+        "name": "Gourmet Poultry Curry",
+        "ingredients": [
+            "Raw Whole Bird",
+            "Hylian Rice",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/e/e4/Gourmet_Poultry_Curry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 72,
+        "name": "Seafood Curry",
+        "ingredients": [
+            "Any Porgy",
+            "Hylian Rice",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/c/c1/Seafood_Curry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 73,
+        "name": "Cheesy Curry",
+        "ingredients": [
+            "Hateno Cheese",
+            "Hylian Rice",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/9/9d/Cheesy_Curry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 74,
+        "name": "Carrot Stew",
+        "ingredients": [
+            "Any Carrot",
+            "Goat Butter",
+            "Fresh Milk",
+            "Tabantha Wheat"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/9/9e/Carrot_Stew_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 75,
+        "name": "Pumpkin Stew",
+        "ingredients": [
+            "Any Pumpkin",
+            "Goat Butter",
+            "Fresh Milk",
+            "Tabantha Wheat"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/2/22/Pumpkin_Stew_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 76,
+        "name": "Meat Stew",
+        "ingredients": [
+            "Raw Meat",
+            "Goat Butter",
+            "Fresh Milk",
+            "Tabantha Wheat"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/a/a9/Meat_Stew_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 77,
+        "name": "Prime Meat Stew",
+        "ingredients": [
+            "Raw Prime Meat",
+            "Goat Butter",
+            "Fresh Milk",
+            "Tabantha Wheat"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/3/34/Prime_Meat_Stew_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 78,
+        "name": "Gourmet Meat Stew",
+        "ingredients": [
+            "Raw Gourmet Meat",
+            "Goat Butter",
+            "Fresh Milk",
+            "Tabantha Wheat"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/f/f4/Gourmet_Meat_Stew_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 79,
+        "name": "Meat-Stuffed Pumpkin",
+        "ingredients": [
+            "Any Pumpkin",
+            "Any Meat"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/f/f9/Meat-Stuffed_Pumpkin_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 80,
+        "name": "Vegetable Risotto",
+        "ingredients": [
+            "Any Carrot or Pumpkin",
+            "Hylian Rice",
+            "Rock Salt",
+            "Goat Butter"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/a/a7/Vegetable_Risotto_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 81,
+        "name": "Mushroom Risotto",
+        "ingredients": [
+            "Any Mushroom",
+            "Hylian Rice",
+            "Rock Salt",
+            "Goat Butter"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/b/bd/Mushroom_Risotto_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 82,
+        "name": "Salmon Risotto",
+        "ingredients": [
+            "Hearty Salmon",
+            "Hylian Rice",
+            "Rock Salt",
+            "Goat Butter"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/a/aa/Salmon_Risotto_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 83,
+        "name": "Crab Risotto",
+        "ingredients": [
+            "Any Crab",
+            "Hylian Rice",
+            "Rock Salt",
+            "Goat Butter"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/1/1c/Crab_Risotto_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 84,
+        "name": "Cheesy Risotto",
+        "ingredients": [
+            "Hateno Cheese",
+            "Any Mushroom or Fish",
+            "Rock Salt",
+            "Hylian Rice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/4/47/Cheesy_Risotto_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 85,
+        "name": "Poultry Pilaf",
+        "ingredients": [
+            "Raw Bird Drumstick",
+            "Hylian Rice",
+            "Bird Egg",
+            "Goat Butter"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/5/52/Poultry_Pilaf_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 86,
+        "name": "Prime Poultry Pilaf",
+        "ingredients": [
+            "Raw Bird Thigh",
+            "Hylian Rice",
+            "Bird Egg",
+            "Goat Butter"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/5/50/Prime_Poultry_Pilaf_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 87,
+        "name": "Gourmet Poultry Pilaf",
+        "ingredients": [
+            "Raw Whole Bird",
+            "Hylian Rice",
+            "Bird Egg",
+            "Goat Butter"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/f/f1/Gourmet_Poultry_Pilaf_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 88,
+        "name": "Seafood Paella",
+        "ingredients": [
+            "Armored Porgy or Mighty Porgy",
+            "Razorclaw Crab or Ironshell Crab",
+            "Rock Salt",
+            "Goat Butter",
+            "Hylian Rice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/8/8f/Seafood_Paella_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 89,
+        "name": "Curry Pilaf",
+        "ingredients": [
+            "Hylian Rice",
+            "Goat Butter",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/a/a3/Curry_Pilaf_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 90,
+        "name": "Fried Egg and Rice",
+        "ingredients": [
+            "Bird Egg",
+            "Hylian Rice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/0/0f/Fried_Egg_and_Rice_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 91,
+        "name": "Crunchy Fried Rice",
+        "ingredients": [
+            "Any Meat",
+            "Hylian Rice",
+            "Bird Egg",
+            "Oil Jar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/1/1b/Crunchy_Fried_Rice_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 92,
+        "name": "Seafood Fried Rice",
+        "ingredients": [
+            "Any Porgy",
+            "Hylian Rice",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/6/61/Seafood_Fried_Rice_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 93,
+        "name": "Crab Omelet with Rice",
+        "ingredients": [
+            "Any Crab",
+            "Hylian Rice",
+            "Rock Salt",
+            "Bird Egg"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/1/10/Crab_Omelet_with_Rice_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 94,
+        "name": "Meat and Rice Bowl",
+        "ingredients": [
+            "Raw Meat",
+            "Hylian Rice",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/5/59/Meat_and_Rice_Bowl_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 95,
+        "name": "Prime Meat and Rice Bowl",
+        "ingredients": [
+            "Raw Prime Meat",
+            "Hylian Rice",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/c/c4/Prime_Meat_and_Rice_Bowl_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 96,
+        "name": "Gourmet Meat and Rice Bowl",
+        "ingredients": [
+            "Raw Gourmet Meat",
+            "Hylian Rice",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/f/f1/Gourmet_Meat_and_Rice_Bowl_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 97,
+        "name": "Cheesy Meat Bowl",
+        "ingredients": [
+            "Raw Meat",
+            "Hateno Cheese",
+            "Hylian Rice",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/1/1b/Cheesy_Meat_Bowl_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 98,
+        "name": "Prime Cheesy Meat Bowl",
+        "ingredients": [
+            "Raw Prime Meat",
+            "Hateno Cheese",
+            "Hylian Rice",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/9/95/Prime_Cheesy_Meat_Bowl_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 99,
+        "name": "Gourmet Cheesy Meat Bowl",
+        "ingredients": [
+            "Raw Gourmet Meat",
+            "Hateno Cheese",
+            "Hylian Rice",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/c/c3/Gourmet_Cheesy_Meat_Bowl_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 100,
+        "name": "Veggie Rice Balls",
+        "ingredients": [
+            "Any Herb, Flower, or Vegetable",
+            "Hylian Rice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/a/ab/Veggie_Rice_Balls_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 101,
+        "name": "Mushroom Rice Balls",
+        "ingredients": [
+            "Any Mushroom",
+            "Hylian Rice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/2/20/Mushroom_Rice_Balls_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 102,
+        "name": "Meaty Rice Balls",
+        "ingredients": [
+            "Any Meat",
+            "Hylian Rice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/e/e2/Meaty_Rice_Balls_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 103,
+        "name": "Seafood Rice Balls",
+        "ingredients": [
+            "Any Seafood",
+            "Hylian Rice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/1/1b/Seafood_Rice_Balls_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 104,
+        "name": "Veggie Porridge",
+        "ingredients": [
+            "Any Vegetable, Flower, or Herb",
+            "Hylian Rice",
+            "Fresh Milk"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/c/c0/Veggie_Porridge_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 105,
+        "name": "Wheat Bread",
+        "ingredients": [
+            "Tabantha Wheat",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/3/32/Wheat_Bread_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 106,
+        "name": "Melty Cheesy Bread",
+        "ingredients": [
+            "Hateno Cheese",
+            "Tabantha Wheat",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/8/89/Melty_Cheesy_Bread_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 107,
+        "name": "Hylian Tomato Pizza",
+        "ingredients": [
+            "Hateno Cheese",
+            "Tabantha Wheat",
+            "Hylian Tomato"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/2/20/Hylian_Tomato_Pizza_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 108,
+        "name": "Meat Pie",
+        "ingredients": [
+            "Any Meat",
+            "Tabantha Wheat",
+            "Goat Butter",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/0/09/Meat_Pie_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 109,
+        "name": "Fish Pie",
+        "ingredients": [
+            "Any Seafood",
+            "Tabantha Wheat",
+            "Goat Butter",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/4/4a/Fish_Pie_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 110,
+        "name": "Cheesy Tomato",
+        "ingredients": [
+            "Hateno Cheese",
+            "Hylian Tomato"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/e/e2/Cheesy_Tomato_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 111,
+        "name": "Cheesy Baked Fish",
+        "ingredients": [
+            "Hateno Cheese",
+            "Any Seafood"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/b/ba/Cheesy_Baked_Fish_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 112,
+        "name": "Omelet",
+        "ingredients": [
+            "Bird Egg",
+            "Optional: Any Other Ingredients So Long As They Do Not Complete Another Recipe"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/e/ec/Omelet_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 113,
+        "name": "Vegetable Omelet",
+        "ingredients": [
+            "Any Herb, Flower, or Vegetable",
+            "Bird Egg",
+            "Goat Butter",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/2/23/Vegetable_Omelet_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 114,
+        "name": "Mushroom Omelet",
+        "ingredients": [
+            "Any Mushroom",
+            "Bird Egg",
+            "Goat Butter",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/f/fe/Mushroom_Omelet_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 115,
+        "name": "Cheesy Omelet",
+        "ingredients": [
+            "Hateno Cheese",
+            "Any Vegetable, Flower, or Herb",
+            "Bird Egg",
+            "Goat Butter",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/0/0c/Cheesy_Omelet_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 116,
+        "name": "Hot Buttered Apple",
+        "ingredients": [
+            "Any Apple",
+            "Goat Butter"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/c/ca/Hot_Buttered_Apple_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 117,
+        "name": "Honeyed Fruits",
+        "ingredients": [
+            "Any Fruit (Excluding Apples)",
+            "Courser Bee Honey"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/5/5c/Honeyed_Fruits_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 118,
+        "name": "Honeyed Apple",
+        "ingredients": [
+            "Any Apple",
+            "Courser Bee Honey"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/2/28/Honeyed_Apple_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 119,
+        "name": "Honey Candy",
+        "ingredients": [
+            "Courser Bee Honey"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/1/13/Honey_Candy_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 120,
+        "name": "Fried Bananas",
+        "ingredients": [
+            "Mighty Bananas",
+            "Tabantha Wheat",
+            "Cane Sugar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/b/b6/Fried_Bananas_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 121,
+        "name": "Egg Pudding",
+        "ingredients": [
+            "Bird Egg",
+            "Fresh Milk",
+            "Cane Sugar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/9/9b/Egg_Pudding_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 122,
+        "name": "Plain Crepe",
+        "ingredients": [
+            "Bird Egg",
+            "Tabantha Wheat",
+            "Fresh Milk",
+            "Cane Sugar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/2/2d/Plain_Crepe_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 123,
+        "name": "Wildberry Crepe",
+        "ingredients": [
+            "Wildberry",
+            "Bird Egg",
+            "Tabantha Wheat",
+            "Fresh Milk",
+            "Cane Sugar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/6/68/Wildberry_Crepe_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 124,
+        "name": "Honey Crepe",
+        "ingredients": [
+            "Courser Bee Honey",
+            "Bird Egg",
+            "Tabantha Wheat",
+            "Fresh Milk",
+            "Cane Sugar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/6/63/Honey_Crepe_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 125,
+        "name": "Nutcake",
+        "ingredients": [
+            "Any Nut",
+            "Tabantha Wheat",
+            "Goat Butter",
+            "Cane Sugar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/1/1f/Nutcake_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 126,
+        "name": "Fruitcake",
+        "ingredients": [
+            "Wildberry or Apple",
+            "Any Other Fruit",
+            "Tabantha Wheat",
+            "Cane Sugar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/2/2a/Fruitcake_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 127,
+        "name": "Carrot Cake",
+        "ingredients": [
+            "Any Carrot",
+            "Tabantha Wheat",
+            "Goat Butter",
+            "Cane Sugar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/f/f2/Carrot_Cake_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 128,
+        "name": "Pumpkin Pie",
+        "ingredients": [
+            "Any Pumpkin",
+            "Tabantha Wheat",
+            "Goat Butter",
+            "Cane Sugar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/8/8b/Pumpkin_Pie_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 129,
+        "name": "Cheesecake",
+        "ingredients": [
+            "Hateno Cheese",
+            "Tabantha Wheat",
+            "Goat Butter",
+            "Cane Sugar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/5/51/Cheesecake_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 130,
+        "name": "Fruit Pie",
+        "ingredients": [
+            "Any Fruit (Excluding Apples and Pumpkins)",
+            "Tabantha Wheat",
+            "Goat Butter",
+            "Cane Sugar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/f/fe/Fruit_Pie_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 131,
+        "name": "Apple Pie",
+        "ingredients": [
+            "Any Apple",
+            "Tabantha Wheat",
+            "Goat Butter",
+            "Cane Sugar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/6/6f/Apple_Pie_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 132,
+        "name": "Egg Tart",
+        "ingredients": [
+            "Bird Egg",
+            "Tabantha Wheat",
+            "Goat Butter",
+            "Cane Sugar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/e/e2/Egg_Tart_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 133,
+        "name": "Milk",
+        "ingredients": [
+            "Fresh Milk"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/c/ce/Milk_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 134,
+        "name": "Noble Pursuit",
+        "ingredients": [
+            "Palm Fruit",
+            "Hydromelon",
+            "Voltfruit",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/c/c4/Noble_Pursuit_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 135,
+        "name": "Monster Stew",
+        "ingredients": [
+            "Any Meat",
+            "Any Seafood",
+            "Monster Extract"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/1/1a/Monster_Stew_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 136,
+        "name": "Monster Soup",
+        "ingredients": [
+            "Tabantha Wheat",
+            "Goat Butter",
+            "Fresh Milk",
+            "Monster Extract"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/5/56/Monster_Soup_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 137,
+        "name": "Monster Curry",
+        "ingredients": [
+            "Hylian Rice",
+            "Goron Spice",
+            "Monster Extract"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/9/9a/Monster_Curry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 138,
+        "name": "Monster Rice Balls",
+        "ingredients": [
+            "Hylian Rice",
+            "Rock Salt",
+            "Monster Extract"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/2/26/Monster_Rice_Balls_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 139,
+        "name": "Monster Cake",
+        "ingredients": [
+            "Tabantha Wheat",
+            "Cane Sugar",
+            "Goat Butter",
+            "Monster Extract"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/1/1e/Monster_Cake_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 140,
+        "name": "Dark Stew",
+        "ingredients": [
+            "Dark Clump",
+            "Any Meat",
+            "Any Seafood"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/5/58/Dark_Stew_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 141,
+        "name": "Dark Soup",
+        "ingredients": [
+            "Dark Clump",
+            "Tabantha Wheat",
+            "Fresh Milk",
+            "Goat Butter"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/6/6d/Dark_Soup_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 142,
+        "name": "Dark Curry",
+        "ingredients": [
+            "Dark Clump",
+            "Hylian Rice",
+            "Goron Spice"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/e/e3/Dark_Curry_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 143,
+        "name": "Dark Rice Ball",
+        "ingredients": [
+            "Dark Clump",
+            "Hylian Rice",
+            "Rock Salt"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/c/cd/Dark_Rice_Ball_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 144,
+        "name": "Dark Cake",
+        "ingredients": [
+            "Dark Clump",
+            "Tabantha Wheat",
+            "Goat Butter",
+            "Cane Sugar"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/1/10/Dark_Cake_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 145,
+        "name": "Dubious Food",
+        "ingredients": [
+            "Any combination of incompatible ingredients"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/c/c4/Dubious_Food_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 146,
+        "name": "Rock-Hard Food",
+        "ingredients": [
+            "Any Gem or Wood"
+        ],
+        "image": "https://www.zeldadungeon.net/wiki/images/2/2f/Rock-Hard_Food_-_TotK_icon.png",
+        "method": "pot"
+    },
+    {
+        "id": 147,
+        "name": "Baked Apple",
+        "ingredients": [
+            "Apple"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 148,
+        "name": "Baked Golden Apple",
+        "ingredients": [
+            "Golden Apple"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 149,
+        "name": "Charred Pepper",
+        "ingredients": [
+            "Spicy Pepper"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 150,
+        "name": "Roasted Hylian Tomato",
+        "ingredients": [
+            "Hylian Tomato"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 151,
+        "name": "Roasted Wildberry",
+        "ingredients": [
+            "Wildberry"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 152,
+        "name": "Roasted Voltfruit",
+        "ingredients": [
+            "Voltfruit"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 153,
+        "name": "Roasted Hydromelon",
+        "ingredients": [
+            "Hydromelon"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 154,
+        "name": "Baked Palm Fruit",
+        "ingredients": [
+            "Palm Fruit"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 155,
+        "name": "Roasted Mighty Bananas",
+        "ingredients": [
+            "Mighty Bananas"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 156,
+        "name": "Roasted Lotus Seeds",
+        "ingredients": [
+            "Lotus Seeds"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 157,
+        "name": "Roasted Mighty Thistle",
+        "ingredients": [
+            "Mighty Thistle"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 158,
+        "name": "Roasted Armoranth",
+        "ingredients": [
+            "Armoranth"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 159,
+        "name": "Roasted Swift Carrot",
+        "ingredients": [
+            "Swift Carrot"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 160,
+        "name": "Roasted Endura Carrot",
+        "ingredients": [
+            "Endura Carrot"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 161,
+        "name": "Baked Fortified Pumpkin",
+        "ingredients": [
+            "Fortified Pumpkin"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 162,
+        "name": "Baked Sun Pumpkin",
+        "ingredients": [
+            "Sun Pumpkin"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 163,
+        "name": "Roasted Radish",
+        "ingredients": [
+            "Hearty Radish"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 164,
+        "name": "Roasted Big Radish",
+        "ingredients": [
+            "Big Hearty Radish"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 165,
+        "name": "Toasty Skyshroom",
+        "ingredients": [
+            "Skyshroom"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 166,
+        "name": "Toasty Hylian Shroom",
+        "ingredients": [
+            "Hylian Shroom"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 167,
+        "name": "Toasty Stamella Shroom",
+        "ingredients": [
+            "Stamella Shroom"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 168,
+        "name": "Toasty Rushroom",
+        "ingredients": [
+            "Rushroom"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 169,
+        "name": "Toasty Sunshroom",
+        "ingredients": [
+            "Sunshroom"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 170,
+        "name": "Toasty Chillshroom",
+        "ingredients": [
+            "Chillshroom"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 171,
+        "name": "Toasty Zapshroom",
+        "ingredients": [
+            "Zapshroom"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 172,
+        "name": "Toasty Razorshroom",
+        "ingredients": [
+            "Razorshroom"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 173,
+        "name": "Toasty Ironshroom",
+        "ingredients": [
+            "Ironshroom"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 174,
+        "name": "Toasty Silent Shroom",
+        "ingredients": [
+            "Silent Shroom"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 175,
+        "name": "Toasty Brightcap",
+        "ingredients": [
+            "Brightcap"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 176,
+        "name": "Toasty Endura Shroom",
+        "ingredients": [
+            "Endura Shroom"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 177,
+        "name": "Toasted Hearty Truffle",
+        "ingredients": [
+            "Hearty Truffle"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 178,
+        "name": "Toasted Big Hearty Truffle",
+        "ingredients": [
+            "Big Hearty Truffle"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 179,
+        "name": "Seared Steak",
+        "ingredients": [
+            "Raw Meat"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 180,
+        "name": "Seared Prime Steak",
+        "ingredients": [
+            "Raw Prime Meat"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 181,
+        "name": "Seared Gourmet Steak",
+        "ingredients": [
+            "Raw Gourmet Meat"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 182,
+        "name": "Roasted Bird Drumstick",
+        "ingredients": [
+            "Raw Bird Drumstick"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 183,
+        "name": "Roasted Bird Thigh",
+        "ingredients": [
+            "Raw Bird Thigh"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 184,
+        "name": "Roasted Whole Bird",
+        "ingredients": [
+            "Raw Whole Bird"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 185,
+        "name": "Roasted Arowana",
+        "ingredients": [
+            "Ancient Arowana"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 186,
+        "name": "Roasted Bass",
+        "ingredients": [
+            "Hyrule Bass"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 187,
+        "name": "Roasted Trout",
+        "ingredients": [
+            "Any Trout"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 188,
+        "name": "Roasted Carp",
+        "ingredients": [
+            "Any Carp"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 189,
+        "name": "Roasted Porgy",
+        "ingredients": [
+            "Any Porgy"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 190,
+        "name": "Roasted Cave Fish",
+        "ingredients": [
+            "Glowing Cave Fish"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 191,
+        "name": "Roasted Hearty Bass",
+        "ingredients": [
+            "Hearty Bass"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 192,
+        "name": "Roasted Hearty Salmon",
+        "ingredients": [
+            "Hearty Salmon"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 193,
+        "name": "Blackened Crab",
+        "ingredients": [
+            "Any Crab"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 194,
+        "name": "Sneaky River Escargot",
+        "ingredients": [
+            "Sneaky River Snail"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 195,
+        "name": "Roasted Tree Nut",
+        "ingredients": [
+            "Chickaloo Tree Nut"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 196,
+        "name": "Roasted Acorn",
+        "ingredients": [
+            "Acorn"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 197,
+        "name": "Campfire Egg",
+        "ingredients": [
+            "Bird Egg"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 198,
+        "name": "Hard-Boiled Egg",
+        "ingredients": [
+            "Bird Egg"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 199,
+        "name": "Icy Meat",
+        "ingredients": [
+            "Raw Meat"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 200,
+        "name": "Icy Prime Meat",
+        "ingredients": [
+            "Raw Prime Meat"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 201,
+        "name": "Icy Gourmet Meat",
+        "ingredients": [
+            "Raw Gourtmet Meat"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 202,
+        "name": "Frozen Bird Drumstick",
+        "ingredients": [
+            "Raw Bird Drumstick"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 203,
+        "name": "Frozen Bird Thigh",
+        "ingredients": [
+            "Raw Bird Thigh"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 204,
+        "name": "Frozen Whole Bird",
+        "ingredients": [
+            "Raw Whole Bird"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 205,
+        "name": "Frozen Arowana",
+        "ingredients": [
+            "Ancient Arowana"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 206,
+        "name": "Frozen Bass",
+        "ingredients": [
+            "Hyrule Bass"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 207,
+        "name": "Frozen Trout",
+        "ingredients": [
+            "Any Trout"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 208,
+        "name": "Frozen Carp",
+        "ingredients": [
+            "Any Carp"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 209,
+        "name": "Frozen Porgy",
+        "ingredients": [
+            "Any Porgy"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 210,
+        "name": "Frozen Cave Fish",
+        "ingredients": [
+            "Glowing Cave Fish"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 211,
+        "name": "Frozen Hearty Bass",
+        "ingredients": [
+            "Hearty Bass"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 212,
+        "name": "Frozen Hearty Salmon",
+        "ingredients": [
+            "Hearty Salmon"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 213,
+        "name": "Frozen Crab",
+        "ingredients": [
+            "Any Crab"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 214,
+        "name": "Frozen River Snail",
+        "ingredients": [
+            "Sneaky River Snail"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 215,
+        "name": "Energizing Elixir",
+        "ingredients": [
+            "Restless Cricket or Energetic Rhino Beetle",
+            "Any Monster Part"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 216,
+        "name": "Hasty Elixir",
+        "ingredients": [
+            "Hot-Footed Frog or Hightail Lizard",
+            "Any Monster Part"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 217,
+        "name": "Spicy Elixir",
+        "ingredients": [
+            "Summerwing Butterfly or Warm Darner",
+            "Any Monster Part"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 218,
+        "name": "Chilly Elixir",
+        "ingredients": [
+            "Winterwing Butterfly or Cold Darner",
+            "Any Monster Part"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 219,
+        "name": "Electro Elixir",
+        "ingredients": [
+            "Thunderwing Butterfly or Electric Darner",
+            "Any Monster Part"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 220,
+        "name": "Fireproof Elixir",
+        "ingredients": [
+            "Fireproof Lizard or Smotherwing Butterfly",
+            "Any Monster Part"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 221,
+        "name": "Mighty Elixir",
+        "ingredients": [
+            "Bladed Rhino Beetle",
+            "Any Monster Part"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 222,
+        "name": "Tough Elixir",
+        "ingredients": [
+            "Rugged Rhino Beetle",
+            "Any Monster Part"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 223,
+        "name": "Sneaky Elixir",
+        "ingredients": [
+            "Sunset Firefly ",
+            "Any Monster Part"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 224,
+        "name": "Sticky Elixir",
+        "ingredients": [
+            "Sticky Frog or Sticky Lizard",
+            "Any Monster Part"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 225,
+        "name": "Bright Elixir",
+        "ingredients": [
+            "Deep Firefly",
+            "Any Monster Part"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 226,
+        "name": "Enduring Elixir",
+        "ingredients": [
+            "Tireless Frog",
+            "Any Monster Part"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 227,
+        "name": "Hearty Elixir",
+        "ingredients": [
+            "Hearty Lizard",
+            "Any Monster Part"
+        ],
+        "image": "",
+        "method": "pot"
+    },
+    {
+        "id": 228,
+        "name": "Fairy Tonic",
+        "ingredients": [
+            "Fairy",
+            "Any Monster Part"
+        ],
+        "image": "",
+        "method": "pot"
     }
 ]
