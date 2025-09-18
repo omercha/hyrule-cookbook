@@ -16,7 +16,6 @@ Find recipe information quickly and track your cooking progress.
 -   **Dynamic Search:** Filter recipes by name or ID using the search bar.
 -   **Progress Tracking:** Mark recipes as cooked with a simple checkbox to track your completion.
 -   **Minimalist UI:** A clean, simple interface that's easy to navigate.
--   **Ultra lightweight:** Made with ReactJS, HTML and vanilla CSS.
 
 ## Tech Stack & Data Source
 - **Frontend:** React and Vanilla CSS
@@ -25,5 +24,6 @@ Find recipe information quickly and track your cooking progress.
 
 ## License
 This project is made available under the MIT License. See the `LICENSE` file for more details.
+
 
 
