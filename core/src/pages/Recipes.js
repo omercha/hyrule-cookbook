@@ -28,7 +28,7 @@ function Recipes() {
   });
 
   return (
-    <div className="recipes-page">
+    <div className="page-container recipes-page">
       {loading ? (
         <div className="status-message">Loading...</div>
       ) : (

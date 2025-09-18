@@ -37,21 +37,21 @@ function Home() {
               <FeatureCard navigateTo={() => navigate('/recipes')} title="View Recipes" iconSrc={viewRecipesIcon} iconAlt="view recipes icon" />
               <FeatureCard navigateTo={() => navigate('/tracker')} title="Track Completion" iconSrc={trackCompletionIcon} iconAlt="track completion icon" />
             </div>
-            <div className='credit-section'>
-              <div className="credit-content">
-                <span>Developed by Omer</span>
-                <span>|</span>
-                <a
-                  href="https://github.com/omercha/hyrule-cookbook"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="credit-link"
-                >
-                  View on GitHub
-                </a>
-              </div>
-            </div>
           </section>
+          <div className='site-footer credit-section'>
+            <div className="footer-content">
+              <span>Developed by Omer</span>
+              <span>|</span>
+              <a
+                href="https://github.com/omercha/hyrule-cookbook"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="footer-link"
+              >
+                View on GitHub
+              </a>
+            </div>
+          </div>
         </section>
       </div>
     </>

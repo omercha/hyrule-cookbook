@@ -21,7 +21,7 @@ function Tracker() {
   }, []);
 
   return (
-    <div className="tracker-page">
+    <div className="page-container tracker-page">
       {loading ? (
         <div className="status-message">Loading...</div>
       ) : (
