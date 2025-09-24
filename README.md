@@ -18,12 +18,13 @@ Find recipe information quickly and track your cooking progress.
 -   **Minimalist UI:** A clean, simple interface that's easy to navigate.
 
 ## Tech Stack & Data Source
-- **Frontend:** React and Vanilla CSS
+- **Frontend:** JavaScript (React) and CSS
 - **Deployment:** Vercel
 - The recipe data is maintained in a separate repository and can be found [here](https://github.com/omercha/zelda-recipes-json).
 
 ## License
 This project is made available under the MIT License. See the `LICENSE` file for more details.
+
 
 
 
