@@ -3,7 +3,6 @@ import RecipeList from '../components/RecipeList';
 import SearchBar from '../components/SearchBar';
 import { getAllRecipes } from '../services/RecipeService';
 import Footer from '../components/Footer';
-import './Recipes.css';
 
 function Recipes() {
   const [recipes, setRecipes] = useState([]);
@@ -28,11 +27,11 @@ function Recipes() {
   });
 
   return (
-    <div className="page-container recipes-page">
+    <div className="page-container">
       {loading ? (
         <div className="status-message">Loading...</div>
       ) : (
-        <div className="recipes-content">
+        <div>
           <SearchBar
             searchTerm={searchTerm}
             onSearchChange={setSearchTerm}

@@ -4,7 +4,6 @@ import { useCompletion } from '../hooks/useCompletion';
 import TrackerTable from '../components/TrackerTable';
 import Footer from '../components/Footer';
 import ProgressBar from '../components/ProgressBar';
-import './Tracker.css';
 
 function Tracker() {
   const [recipes, setRecipes] = useState([]);
@@ -21,11 +20,11 @@ function Tracker() {
   }, []);
 
   return (
-    <div className="page-container tracker-page">
+    <div className="page-container">
       {loading ? (
         <div className="status-message">Loading...</div>
       ) : (
-        <div className="tracker-content">
+        <div>
           <ProgressBar completed={completedIds.size} total={recipes.length} />
           <TrackerTable
             recipes={recipes}
