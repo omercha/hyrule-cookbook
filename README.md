@@ -1,5 +1,3 @@
-###### *Note: Some browsers may not display recipe images correctly due to the current hotlinking setup. A fix is in progress to migrate all images from external hotlinks to locally hosted source files.*
-
 # Hyrule Cookbook
 
 A minimalist web app that compiles information on all 228 recipes from *The Legend of Zelda: Tears of the Kingdom*.
@@ -26,6 +24,7 @@ Find recipe information quickly and track your cooking progress.
 
 ## License
 This project is made available under the MIT License. See the `LICENSE` file for more details.
+
 
 
 
