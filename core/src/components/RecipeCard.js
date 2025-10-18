@@ -7,13 +7,21 @@ const methodColours = {
 };
 
 const RecipeCard = ({ recipe }) => {
+
+  let imageSrc;
+  try {
+    imageSrc = require(`../assets/icons/recipes/${recipe.image}`);
+  } catch (error) {
+    imageSrc = '';
+  }
+  
   const imageStyles = {
     backgroundColor: methodColours[recipe.method],
   };
   return (
     <div className="recipe-card">
       <div className="recipe-card-image-container" style={imageStyles}>
-        <img src={recipe.image} alt={recipe.name} className="recipe-card-image" />
+        <img src={imageSrc} alt={recipe.name} className="recipe-card-image" />
       </div>
       <div className="recipe-card-body">
         <h3 className="recipe-card-title">{recipe.name}</h3>
